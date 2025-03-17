@@ -1,0 +1,122 @@
+[
+  {
+    "riddle": "I am a three-digit number. My tens digit is five more than my ones digit, and my hundreds digit is eight less than my tens digit. What number am I?",
+    "solution": 194
+  },
+  {
+    "riddle": "What number am I? I am twice the sum of my digits.",
+    "solution": 18
+  },
+  {
+    "riddle": "I am a number. Multiply me by 4 and subtract 6 to get 18. What am I?",
+    "solution": 6
+  },
+  {
+    "riddle": "The sum of two numbers is 20, and their product is 96. What are the numbers?",
+    "solution": [12, 8]
+  },
+  {
+    "riddle": "I am a number. If you double me and subtract 10, you get 14. What number am I?",
+    "solution": 12
+  },
+  {
+    "riddle": "The difference between two numbers is 6, and their sum is 14. What are the numbers?",
+    "solution": [10, 4]
+  },
+  {
+    "riddle": "I am a number. My square is 64, and my cube is 512. What am I?",
+    "solution": 8
+  },
+  {
+    "riddle": "I am a number. If you subtract 5 from me and then divide by 4, you get 3. What number am I?",
+    "solution": 17
+  },
+  {
+    "riddle": "I am a number. If you add me to myself, then multiply by 3, the result is 36. What am I?",
+    "solution": 6
+  },
+  {
+    "riddle": "A number is tripled, then increased by 8 to become 29. What is the number?",
+    "solution": 7
+  },
+  {
+    "riddle": "If you subtract me from 25, you get 10. What number am I?",
+    "solution": 15
+  },
+  {
+    "riddle": "What number becomes double itself when added to 12?",
+    "solution": 12
+  },
+  {
+    "riddle": "Divide me by 7, and you get 3. What number am I?",
+    "solution": 21
+  },
+  {
+    "riddle": "If you multiply my digits, you get 24. If you add them, you get 11. What number am I?",
+    "solution": 38
+  },
+  {
+    "riddle": "The sum of the ages of a father and son is 40. The father's age is three times the son's age. How old is the son?",
+    "solution": 10
+  },
+  {
+    "riddle": "What is the next number in the sequence: 2, 6, 12, 20, 30, __?",
+    "solution": 42
+  },
+  {
+    "riddle": "I am a number. If you multiply me by myself and add 25, you get 50. What am I?",
+    "solution": 5
+  },
+  {
+    "riddle": "Two numbers multiply to give 56 and add up to 15. What are the numbers?",
+    "solution": [7, 8]
+  },
+  {
+    "riddle": "The sum of my digits is 9, and I am a two-digit number. My tens digit is one more than my ones digit. What number am I?",
+    "solution": 54
+  },
+  {
+    "riddle": "If you multiply me by 5, you get 60. What am I?",
+    "solution": 12
+  },
+  {
+    "riddle": "A rectangle has a length twice its width. If the perimeter is 24, what is the width?",
+    "solution": 4
+  },
+  {
+    "riddle": "I am an even number between 30 and 40. My digits add up to 7. What number am I?",
+    "solution": 34
+  },
+  {
+    "riddle": "A car travels 60 km in 2 hours. What is its speed per hour?",
+    "solution": 30
+  },
+  {
+    "riddle": "What two numbers multiply to 36 and add up to 13?",
+    "solution": [9, 4]
+  },
+  {
+    "riddle": "What is half of a dozen plus two?",
+    "solution": 5
+  },
+  {
+    "riddle": "If I subtract 3 from a number and double the result, I get 14. What number am I?",
+    "solution": 10
+  },
+  {
+    "riddle": "If you add 5 to me and then divide by 2, you get 6. What number am I?",
+    "solution": 7
+  },
+  {
+    "riddle": "I am a number. When you divide me by 3, then add 4, you get 10. What number am I?",
+    "solution": 18
+  },
+  {
+    "riddle": "A rope is 40 meters long. If you cut it into 4 equal pieces, how long is each piece?",
+    "solution": 10
+  },
+  {
+    "riddle": "If 6 times a number is equal to 3 less than 45, what is the number?",
+    "solution": 7
+  }
+]
